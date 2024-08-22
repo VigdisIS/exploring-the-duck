@@ -1,3 +1,6 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb
+[submodule "duckdb_vss"]
+	path = duckdb_vss
+	url = https://github.com/duckdb/duckdb_vss
